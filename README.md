@@ -10,7 +10,7 @@
 
 
 ### Transportation
-Artificial Intelligence is set to revolutionize transportation in numerous ways by 2040. The deployment of AI-powered autonomous vehicles will significantly reduce human errors, leading to safer roads and reduced accidents. These self-driving cars will also increase mobility for the elderly and people with disabilities who may have difficulty driving themselves. AI will also enable better traffic management through real-time data analysis and predictive modeling, helping to reduce congestion and improve travel times. Moreover, AI-powered logistics and supply chain management will optimize the transportation of goods and reduce delivery times. Overall, AI will play a crucial role in shaping the future of transportation by making it safer, more efficient, and accessible for everyone.
+  Artificial Intelligence is set to revolutionize transportation in numerous ways by 2040. The deployment of AI-powered autonomous vehicles will significantly reduce human errors, leading to safer roads and reduced accidents. These self-driving cars will also increase mobility for the elderly and people with disabilities who may have difficulty driving themselves. AI will also enable better traffic management through real-time data analysis and predictive modeling, helping to reduce congestion and improve travel times. Moreover, AI-powered logistics and supply chain management will optimize the transportation of goods and reduce delivery times. Overall, AI will play a crucial role in shaping the future of transportation by making it safer, more efficient, and accessible for everyone.
 
 ![Ai](Ai_privatization.jpg)
 
